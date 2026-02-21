@@ -22,6 +22,7 @@ body {
   gap: 20px;
   justify-content: center;
   align-items: flex-start;
+}
 
 
 #left-container, #center-container, #right-container {
